@@ -1,0 +1,27 @@
+body{
+    margin: 0;
+    background-color: whitesmoke;
+    font-family: 'Rock Salt', cursive;
+    text-align: center;
+}
+.secondary-background{
+    background-color: snow;
+}
+.tagline{
+    font-family: 'Quicksand', sans-serif;
+    color: lightslategray;
+    line-height: 125px;
+}
+/* Header */
+h1{
+    margin: 0;
+    background-color: steelblue;
+    line-height: 100px;
+    color: khaki;
+}
+h2{
+    margin: 10px;
+}
+.container{
+    border: 3px solid black;
+}
